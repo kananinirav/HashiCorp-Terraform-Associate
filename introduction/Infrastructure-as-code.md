@@ -183,7 +183,7 @@ How does laC enhance the Infrastructure Lifecycle?
 
 - **GitOps** is when you take Infrastructure as Code (IaC) and you use a git repository to **introduce a formal process to review and accept changes to infrastructure code**, once that code is accepted, it automatically triggers a deploy
 
-![GitOps](./../images/GitOps.png)
+![GitOps](/images/gitops.png)
 
 ## Immutable Infrastructure Guarantee
 
