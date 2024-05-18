@@ -10,8 +10,10 @@ Each Section contains a number of units. **Below Table Link** containing informa
 
 ## Table of contents
 
-- [Introduction to Infrastructure as Code (IAC)](./introduction/Infrastructure-as-code.md)
+- [Introduction to Infrastructure as Code (IAC)](/sections/Infrastructure-as-code.md)
   - Problem with Manual Configuration, Infrastructure as Code (IaC), Advantages of IaC patterns, What is Infrastructure Lifecycle?, Idempotent vs Non-Idempotent, Provisioning vs Deployment vs Orchestration, Configuration Drift, Mutable vs Immutable Infrastructure, What is GitOps?, Immutable Infrastructure Guarantee
+- [Providers in Terraform](/sections/providers-in-terraform.md)
+  - Introduction, Type Of Providers, Use Providers Efficiently, Use Multiple Providers, Best Practices
 
 ## Visitors Count
 
